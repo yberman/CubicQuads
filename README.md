@@ -13,3 +13,7 @@ identifyCQsAndRadials.py - is a messy python script that reads from the KnownCub
 
 
 
+# Resources
+
+* [NetworkX Tutorial](https://networkx.github.io/documentation/stable/tutorial.html#creating-a-graph)
+* [Nauty](http://users.cecs.anu.edu.au/~bdm/nauty/)
