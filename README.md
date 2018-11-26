@@ -37,3 +37,7 @@ have not discovered an immersing CQ.
 
 
 
+# Resources
+
+* [NetworkX Tutorial](https://networkx.github.io/documentation/stable/tutorial.html#creating-a-graph)
+* [Nauty](http://users.cecs.anu.edu.au/~bdm/nauty/)
